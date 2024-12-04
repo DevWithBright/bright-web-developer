@@ -1,4 +1,4 @@
-# Hi there, I'm [Bright Lawrence] 👋
+# Hi there, I'm Bright Lawrence 👋
 
 Welcome to my GitHub! I'm a passionate **[Web Developer, e.g., Full Stack Web Developer]**, focused on building accessible, user-friendly, and scalable web applications. With a foundation in modern web technologies, I aim to deliver impactful solutions that bridge the gap between design and functionality.
 
@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **[Web Developer, e.g., Full Stack Web De
 ---
 
 ## 🌟 About Me
-Hi, I’m Bright Lawrence, a Web Designer with 2 years of experience in Tech Field. I specialize in Web Designing/Developing, combining Unique Strengths to Achieve Specific Outcomes. Throughout my career, I’ve had the opportunity to Accomplish Some Level Of Knowledge on Tech and some Clients Projects. I thrive on The Approach to Work and Problem-Solving, delivering Results and Benefits for clients including Notable Clients and Collaborations. I believe in Technology, Cause It's Advancing And May One-day Lead The World , and it continuously seeks new challenges and opportunities for growth. Explore my portfolio to see examples of how I can Benefit or Impact Your Offer. Connect with me to discuss how we can collaborate on Future Opportunities or Projects.
+i, I’m Bright Lawrence, a Web Designer with 2 years of experience in Tech Field. I specialize in Web Designing/Developing, combining Unique Strengths to Achieve Specific Outcomes. Throughout my career, I’ve had the opportunity to Accomplish Some Level Of Knowledge on Tech and some Clients Projects. I thrive on The Approach to Work and Problem-Solving, delivering Results and Benefits for clients including Notable Clients and Collaborations. I believe in Technology, Cause It's Advancing And May One-day Lead The World , and it continuously seeks new challenges and opportunities for growth. Explore my portfolio to see examples of how I can Benefit or Impact Your Offer. Connect with me to discuss how we can collaborate on Future Opportunities or Projects.
 
 - 🔭 **Current Focus**: [e.g., Building scalable applications with MERN Stack]
 - 🌱 **Learning Goals**: [e.g., Advanced performance optimization techniques]
@@ -39,17 +39,17 @@ Hi, I’m Bright Lawrence, a Web Designer with 2 years of experience in Tech Fie
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bridev2024&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bridev2024&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bridev2024&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bridev2024)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://briportfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bri.dev.2024@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
