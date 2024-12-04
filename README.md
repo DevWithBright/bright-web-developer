@@ -7,13 +7,12 @@ Welcome to my GitHub! I'm a passionate **[Web Developer, e.g., Full Stack Web De
 ---
 
 ## 🌟 About Me
-I’m Bright Lawrence, a Web Designer with 2 years of experience in Tech Field. I specialize in Web Designing/Developing, combining Unique Strengths to Achieve Specific Outcomes. Throughout my career, I’ve had the opportunity to Accomplish Some Level Of Knowledge on Tech and some Clients Projects. I thrive on The Approach to Work and Problem-Solving, delivering Results and Benefits for clients including Notable Clients and Collaborations. I believe in Technology, Cause It's Advancing And May One-day Lead The World , and it continuously seeks new challenges and opportunities for growth. Explore my portfolio to see examples of how I can Benefit or Impact Your Offer. Connect with me to discuss how we can collaborate on Future Opportunities or Projects.
-
-- 🔭 **Current Focus**: [e.g., Building scalable applications with MERN Stack]
-- 🌱 **Learning Goals**: [e.g., Advanced performance optimization techniques]
-- 🎓 **Education**: [Your Degree or Certifications]
-- 💬 **Ask Me About**: [e.g., Web Accessibility, JavaScript Best Practices]
-- ⚡ **Fun Fact**: [e.g., "I love solving complex coding puzzles!"]
+- 💼 Full Stack Developer
+- 🔭 **Current Focus**: Building scalable applications with MERN Stack
+- 🌱 **Learning Goals**: Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
+- 🎓 **Education**: Pursuing Academic's in Programming
+- 💬 **Ask Me About**: Web Accessibility, JavaScript Best Practices
+- ⚡ **Fun Fact**: "I love solving complex coding puzzles!"
 
 ---
 
