@@ -1,6 +1,6 @@
 # Hi there, I'm Bright Lawrence 👋
 
-Welcome to my GitHub! I'm a passionate **[Web Developer, e.g., Full Stack Web Developer]**, focused on building accessible, user-friendly, and scalable web applications. With a foundation in modern web technologies, I aim to deliver impactful solutions that bridge the gap between design and functionality.
+Welcome to my GitHub! I'm a passionate **[Full Stack Web Developer]**, focused on building accessible, user-friendly, and scalable web applications. With a foundation in modern web technologies, I aim to deliver impactful solutions that bridge the gap between design and functionality.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
 
